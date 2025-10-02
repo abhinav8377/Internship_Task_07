@@ -21,7 +21,6 @@ By completing this, we gain awareness of:
 ## Key Concepts
 - Browser Security  
 - Permissions Management  
-- Extension Sandboxing  
 - Security Best Practices  
 
 ## Tools Used
