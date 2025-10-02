@@ -16,7 +16,6 @@ By completing this, we gain awareness of:
 5. Restarted the browser and confirmed performance/security improvements.  
 
 ## Deliverables
-- ✅ List of suspicious extensions (removed/disabled).  
 - ✅ Report (PDF) with detailed analysis.   
 
 ## Key Concepts
